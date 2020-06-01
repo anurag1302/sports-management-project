@@ -1,0 +1,21 @@
+C:\Users\anurag.sinha\Source\Repos\Sports Management Project\SportsManagementSolution\SportsManagementDataStore\bin\Debug\netcoreapp2.2\SportsManagementDataStore.deps.json
+C:\Users\anurag.sinha\Source\Repos\Sports Management Project\SportsManagementSolution\SportsManagementDataStore\bin\Debug\netcoreapp2.2\SportsManagementDataStore.runtimeconfig.json
+C:\Users\anurag.sinha\Source\Repos\Sports Management Project\SportsManagementSolution\SportsManagementDataStore\bin\Debug\netcoreapp2.2\SportsManagementDataStore.runtimeconfig.dev.json
+C:\Users\anurag.sinha\Source\Repos\Sports Management Project\SportsManagementSolution\SportsManagementDataStore\bin\Debug\netcoreapp2.2\SportsManagementDataStore.dll
+C:\Users\anurag.sinha\Source\Repos\Sports Management Project\SportsManagementSolution\SportsManagementDataStore\bin\Debug\netcoreapp2.2\SportsManagementDataStore.pdb
+C:\Users\anurag.sinha\Source\Repos\Sports Management Project\SportsManagementSolution\SportsManagementDataStore\obj\Debug\netcoreapp2.2\SportsManagementDataStore.csproj.CoreCompileInputs.cache
+C:\Users\anurag.sinha\Source\Repos\Sports Management Project\SportsManagementSolution\SportsManagementDataStore\obj\Debug\netcoreapp2.2\SportsManagementDataStore.AssemblyInfoInputs.cache
+C:\Users\anurag.sinha\Source\Repos\Sports Management Project\SportsManagementSolution\SportsManagementDataStore\obj\Debug\netcoreapp2.2\SportsManagementDataStore.AssemblyInfo.cs
+C:\Users\anurag.sinha\Source\Repos\Sports Management Project\SportsManagementSolution\SportsManagementDataStore\obj\Debug\netcoreapp2.2\SportsManagementDataStore.dll
+C:\Users\anurag.sinha\Source\Repos\Sports Management Project\SportsManagementSolution\SportsManagementDataStore\obj\Debug\netcoreapp2.2\SportsManagementDataStore.pdb
+D:\sports-management-project\SportsManagementSolution\SportsManagementDataStore\bin\Debug\netcoreapp2.2\SportsManagementDataStore.deps.json
+D:\sports-management-project\SportsManagementSolution\SportsManagementDataStore\bin\Debug\netcoreapp2.2\SportsManagementDataStore.runtimeconfig.json
+D:\sports-management-project\SportsManagementSolution\SportsManagementDataStore\bin\Debug\netcoreapp2.2\SportsManagementDataStore.runtimeconfig.dev.json
+D:\sports-management-project\SportsManagementSolution\SportsManagementDataStore\bin\Debug\netcoreapp2.2\SportsManagementDataStore.dll
+D:\sports-management-project\SportsManagementSolution\SportsManagementDataStore\bin\Debug\netcoreapp2.2\SportsManagementDataStore.pdb
+D:\sports-management-project\SportsManagementSolution\SportsManagementDataStore\obj\Debug\netcoreapp2.2\SportsManagementDataStore.csprojAssemblyReference.cache
+D:\sports-management-project\SportsManagementSolution\SportsManagementDataStore\obj\Debug\netcoreapp2.2\SportsManagementDataStore.csproj.CoreCompileInputs.cache
+D:\sports-management-project\SportsManagementSolution\SportsManagementDataStore\obj\Debug\netcoreapp2.2\SportsManagementDataStore.AssemblyInfoInputs.cache
+D:\sports-management-project\SportsManagementSolution\SportsManagementDataStore\obj\Debug\netcoreapp2.2\SportsManagementDataStore.AssemblyInfo.cs
+D:\sports-management-project\SportsManagementSolution\SportsManagementDataStore\obj\Debug\netcoreapp2.2\SportsManagementDataStore.dll
+D:\sports-management-project\SportsManagementSolution\SportsManagementDataStore\obj\Debug\netcoreapp2.2\SportsManagementDataStore.pdb

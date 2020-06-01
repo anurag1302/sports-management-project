@@ -1,0 +1,38 @@
+﻿@model List<SportsPersonViewModel>
+
+<table style="font-family:Arial">
+    <thead>
+        <tr>
+            <th width="40%"></th>
+            <th width="15%">Name</th>
+            <th width="15%">Sports</th>
+            <th width="15%">Playing Since</th>
+            <th width="15%">Currently Active?</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count() > 0)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <img src="@item.GravatarUrl" alt="@item.FirstName" height="100" width="100"/>
+                    </td>
+                    <td>@item.FullName</td>
+                    <td>@item.AssociatedSports</td>
+                    <td>@item.PlayingProfessionallySince</td>
+                    <td>@(item.IsActive?"Yes":"No")</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" class="text-center">
+                    No Records Found
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
