@@ -8,6 +8,5 @@ SSMS for SQL Server 2017
 # Technologies
 ASP.NET Core
 EF Core
-Repository Pattern and Unit Of Work
 jQuery
 bootstrap
