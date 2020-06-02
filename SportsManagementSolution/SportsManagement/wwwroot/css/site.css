@@ -65,7 +65,7 @@ body {
     left: 0;
     bottom: 0;
     right: 0;
-    background: rgba(0,0,0,0.9);
+    background: rgba(0,0,0,0.7);
     display: none;
     justify-content: center;
     align-items: center;
@@ -78,4 +78,12 @@ body {
     .loader-container img {
         width: 25px;
     }
+
+html {
+    background: url(/images/cover-new.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 
